@@ -1,3 +1,7 @@
+# Fork details
+
+This fork provides a quick fix for pagination.py. In the current official release (2.4.0) pagination doesn't return all results pages. This fork provides a quick fix for this by changing the stop condition for the pagination iterator.
+
 # Google Search Results in Python
 
 [![Package](https://badge.fury.io/py/google-search-results.svg)](https://badge.fury.io/py/google-search-results)
